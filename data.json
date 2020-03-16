@@ -1,0 +1,10 @@
+{
+    "ndtv": {
+        "rss": "https://feeds.feedburner.com/ndtvnews-top-stories",
+        "link": "https://www.ndtv.com/"
+    },
+    "timesofindia": {
+        "rss": "https://timesofindia.indiatimes.com/rssfeeds/5880659.cms",
+        "link": ""
+    }
+}
